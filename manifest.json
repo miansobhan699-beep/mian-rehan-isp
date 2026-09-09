@@ -1,0 +1,14 @@
+{
+  "name": "Mian Rehan Internet - ISP Management",
+  "short_name": "Mian Rehan ISP",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#071a22",
+  "theme_color": "#071a22",
+  "description": "Retail ISP accounting, billing, recovery and business management dashboard.",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
